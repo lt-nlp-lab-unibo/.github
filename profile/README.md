@@ -5,7 +5,7 @@ This is the official repository of the [Language Technologies Lab](https://site.
 
 * 🌍 We are based in Italy
 * 🔭 We are a research group of the Department of Computer Science and Engineering of the University of Bologna. Our focus is Natural Language Processing research and application. We contribute to several national and international research projects and offer a variety of NLP learning activities at the international [Master's Degree in Artificial Intelligence](https://corsi.unibo.it/2cycle/artificial-intelligence) and elsewhere.
-* 🧠People
+* 👤Members 
   * [Paolo Torroni](https://www.unibo.it/sitoweb/p.torroni) - Head of the Language Technologies Lab
   * [Marco Lippi](http://personale.unimore.it/rubrica/dettaglio/marco.lippi)
   * [Andrea Galassi](https://www.unibo.it/sitoweb/a.galassi/en)
