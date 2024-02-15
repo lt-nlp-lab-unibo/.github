@@ -17,3 +17,4 @@ This is the official repository of the [Language Technologies Lab](https://site.
   * [Gianmarco Pappacoda](https://www.unibo.it/sitoweb/gianmarco.pappacoda/en)
   * [Nicolò Donati](https://www.unibo.it/sitoweb/n.donati/en)
   * [Rooshan Saleem Butt](https://www.unibo.it/sitoweb/rooshan.saleembutt/en)
+  * [Luca Bolognini](https://www.unibo.it/sitoweb/luca.bolognini6)
